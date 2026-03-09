@@ -208,8 +208,9 @@ If you want to modify the code or run from source:
 
 #### Prerequisites
 
-* **Node.js** 18+ and **npm**
-* **Python** 3.10+ with `pip`
+* **Node.js** 18+ and **npm** — [nodejs.org](https://nodejs.org/)
+* **Python** 3.10, 3.11, or 3.12 with `pip` — [python.org](https://www.python.org/downloads/) (**check "Add to PATH"** during install)
+  * ⚠️ Python 3.13+ may have compatibility issues with some dependencies. **3.11 or 3.12 is recommended.**
 * API keys for: `aisstream.io` (required), and optionally `opensky-network.org` (OAuth2), `lta.gov.sg`
 
 ### Installation
